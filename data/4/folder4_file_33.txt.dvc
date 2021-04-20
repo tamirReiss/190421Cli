@@ -1,0 +1,14 @@
+outs:
+- md5: 4fbafd6948b6529caa2b78e476359875
+  size: 3
+  path: folder4_file_33.txt
+meta:
+  hkube:
+    id: cli-h96x
+    name: folder4_file_33.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1618904686874
+    hash: 4fbafd6948b6529caa2b78e476359875

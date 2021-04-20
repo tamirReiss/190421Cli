@@ -1,0 +1,17 @@
+outs:
+- md5: 90e2a51705594d033a3abe9d77b2b7ad
+  size: 3
+  path: file_40.txt
+meta:
+  hkube:
+    id: cli-evcv
+    name: file_40.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+      from 30 to 50 
+      from 20 to 40 
+      from 40 to 60 
+    uploadedAt: 1618904686732
+    hash: 90e2a51705594d033a3abe9d77b2b7ad

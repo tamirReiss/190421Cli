@@ -1,0 +1,13 @@
+outs:
+- md5: 1aa55984651b2dc16275a24d7d5d81b7
+  size: 3
+  path: a_file_51.txt
+meta:
+  hkube:
+    id: cli-4z5d
+    name: a_file_51.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686911
+    hash: 1aa55984651b2dc16275a24d7d5d81b7

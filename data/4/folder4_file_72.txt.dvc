@@ -1,0 +1,13 @@
+outs:
+- md5: 8faff61bc1198cc6bdc19adafc27fc82
+  size: 3
+  path: folder4_file_72.txt
+meta:
+  hkube:
+    id: cli-ftw0
+    name: folder4_file_72.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686889
+    hash: 8faff61bc1198cc6bdc19adafc27fc82

@@ -1,0 +1,15 @@
+outs:
+- md5: 7c5aba41f53293b712fd86d08ed5b36e
+  size: 2
+  path: file_9.txt
+meta:
+  hkube:
+    id: cli-5ukk
+    name: file_9.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 200 
+      first test 
+    uploadedAt: 1618904686767
+    hash: 7c5aba41f53293b712fd86d08ed5b36e

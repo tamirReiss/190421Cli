@@ -1,0 +1,13 @@
+outs:
+- md5: b21dfa3feab817c3640bbb984346cdf1
+  size: 3
+  path: folder3_file_67.txt
+meta:
+  hkube:
+    id: cli-hza8
+    name: folder3_file_67.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686854
+    hash: b21dfa3feab817c3640bbb984346cdf1

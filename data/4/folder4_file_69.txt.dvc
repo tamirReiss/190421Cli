@@ -1,0 +1,13 @@
+outs:
+- md5: 105be3ebd0677ec739afd851a6d87fd5
+  size: 3
+  path: folder4_file_69.txt
+meta:
+  hkube:
+    id: cli-tj1x
+    name: folder4_file_69.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686887
+    hash: 105be3ebd0677ec739afd851a6d87fd5

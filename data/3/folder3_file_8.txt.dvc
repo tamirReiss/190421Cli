@@ -1,0 +1,14 @@
+outs:
+- md5: c30f7472766d25af1dc80b3ffc9a58c7
+  size: 2
+  path: folder3_file_8.txt
+meta:
+  hkube:
+    id: cli-9vlx
+    name: folder3_file_8.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618904686858
+    hash: c30f7472766d25af1dc80b3ffc9a58c7

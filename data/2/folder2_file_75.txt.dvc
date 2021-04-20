@@ -1,0 +1,13 @@
+outs:
+- md5: 9f4c0b1fca5cb6f886aa2e54442b1e1b
+  size: 3
+  path: folder2_file_75.txt
+meta:
+  hkube:
+    id: cli-rsro
+    name: folder2_file_75.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686815
+    hash: 9f4c0b1fca5cb6f886aa2e54442b1e1b

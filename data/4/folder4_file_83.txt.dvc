@@ -1,0 +1,13 @@
+outs:
+- md5: 60f3db995d0676b576372c0ee45b7ac0
+  size: 3
+  path: folder4_file_83.txt
+meta:
+  hkube:
+    id: cli-a58t
+    name: folder4_file_83.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686892
+    hash: 60f3db995d0676b576372c0ee45b7ac0

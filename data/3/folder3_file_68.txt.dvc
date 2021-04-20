@@ -1,0 +1,13 @@
+outs:
+- md5: 597825570bae3f914642f26f98e9a810
+  size: 3
+  path: folder3_file_68.txt
+meta:
+  hkube:
+    id: cli-x5h1
+    name: folder3_file_68.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686854
+    hash: 597825570bae3f914642f26f98e9a810

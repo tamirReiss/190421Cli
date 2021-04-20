@@ -1,0 +1,13 @@
+outs:
+- md5: 21fa2e849284bf7681c37a8b565bd934
+  size: 3
+  path: folder3_file_41.txt
+meta:
+  hkube:
+    id: cli-u251
+    name: folder3_file_41.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686844
+    hash: 21fa2e849284bf7681c37a8b565bd934

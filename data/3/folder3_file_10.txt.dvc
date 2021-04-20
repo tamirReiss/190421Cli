@@ -1,0 +1,14 @@
+outs:
+- md5: 31d30eea8d0968d6458e0ad0027c9f80
+  size: 3
+  path: folder3_file_10.txt
+meta:
+  hkube:
+    id: cli-82nx
+    name: folder3_file_10.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618904686826
+    hash: 31d30eea8d0968d6458e0ad0027c9f80

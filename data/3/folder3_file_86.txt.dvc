@@ -1,0 +1,13 @@
+outs:
+- md5: db0aa8bee7afe5a6e363ddcd890e9743
+  size: 3
+  path: folder3_file_86.txt
+meta:
+  hkube:
+    id: cli-05ou
+    name: folder3_file_86.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686860
+    hash: db0aa8bee7afe5a6e363ddcd890e9743

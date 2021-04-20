@@ -1,0 +1,13 @@
+outs:
+- md5: 1153ebfe1f32d9046be1105829c9a0b2
+  size: 3
+  path: folder4_file_61.txt
+meta:
+  hkube:
+    id: cli-q2rr
+    name: folder4_file_61.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686885
+    hash: 1153ebfe1f32d9046be1105829c9a0b2

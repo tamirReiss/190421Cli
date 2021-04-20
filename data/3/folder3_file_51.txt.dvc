@@ -1,0 +1,13 @@
+outs:
+- md5: 1aa55984651b2dc16275a24d7d5d81b7
+  size: 3
+  path: folder3_file_51.txt
+meta:
+  hkube:
+    id: cli-n7ax
+    name: folder3_file_51.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686848
+    hash: 1aa55984651b2dc16275a24d7d5d81b7

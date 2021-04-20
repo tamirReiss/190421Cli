@@ -1,0 +1,13 @@
+outs:
+- md5: 73b4c20e598d6b495de7515ad4ea2fdc
+  size: 3
+  path: folder4_file_66.txt
+meta:
+  hkube:
+    id: cli-cv63
+    name: folder4_file_66.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686886
+    hash: 73b4c20e598d6b495de7515ad4ea2fdc

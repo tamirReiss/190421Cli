@@ -1,0 +1,13 @@
+outs:
+- md5: 1b28e946f4a8ffd5bdf939779c420986
+  size: 3
+  path: folder4_file_90.txt
+meta:
+  hkube:
+    id: cli-rw1p
+    name: folder4_file_90.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686894
+    hash: 1b28e946f4a8ffd5bdf939779c420986

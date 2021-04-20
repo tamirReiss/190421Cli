@@ -1,0 +1,13 @@
+outs:
+- md5: 46107b341ed115c03ac287f002c233f7
+  size: 3
+  path: folder3_file_78.txt
+meta:
+  hkube:
+    id: cli-9kp6
+    name: folder3_file_78.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686857
+    hash: 46107b341ed115c03ac287f002c233f7

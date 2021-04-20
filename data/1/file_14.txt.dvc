@@ -1,0 +1,15 @@
+outs:
+- md5: 367764329430db34be92fd14a7a770ee
+  size: 3
+  path: file_14.txt
+meta:
+  hkube:
+    id: cli-7gop
+    name: file_14.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 200 
+      first test 
+    uploadedAt: 1618904686710
+    hash: 367764329430db34be92fd14a7a770ee

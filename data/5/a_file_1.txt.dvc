@@ -1,0 +1,14 @@
+outs:
+- md5: b026324c6904b2a9cb4b88d6d61c81d1
+  size: 2
+  path: a_file_1.txt
+meta:
+  hkube:
+    id: cli-y5w3
+    name: a_file_1.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618904686898
+    hash: b026324c6904b2a9cb4b88d6d61c81d1

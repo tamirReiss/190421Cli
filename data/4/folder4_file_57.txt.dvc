@@ -1,0 +1,13 @@
+outs:
+- md5: ec8b36fb34891a21752283fcde7788e5
+  size: 3
+  path: folder4_file_57.txt
+meta:
+  hkube:
+    id: cli-7tit
+    name: folder4_file_57.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686883
+    hash: ec8b36fb34891a21752283fcde7788e5

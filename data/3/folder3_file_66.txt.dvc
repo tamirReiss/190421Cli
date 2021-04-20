@@ -1,0 +1,13 @@
+outs:
+- md5: 73b4c20e598d6b495de7515ad4ea2fdc
+  size: 3
+  path: folder3_file_66.txt
+meta:
+  hkube:
+    id: cli-0mq8
+    name: folder3_file_66.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686854
+    hash: 73b4c20e598d6b495de7515ad4ea2fdc

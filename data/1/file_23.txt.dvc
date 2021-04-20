@@ -1,0 +1,15 @@
+outs:
+- md5: 2a53da1a6fbfc0bafdd96b0a2ea29515
+  size: 3
+  path: file_23.txt
+meta:
+  hkube:
+    id: cli-d2xi
+    name: file_23.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+      from 20 to 40 
+    uploadedAt: 1618904686718
+    hash: 2a53da1a6fbfc0bafdd96b0a2ea29515

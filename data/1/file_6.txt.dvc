@@ -1,0 +1,15 @@
+outs:
+- md5: 9ae0ea9e3c9c6e1b9b6252c8395efdc1
+  size: 2
+  path: file_6.txt
+meta:
+  hkube:
+    id: cli-alwm
+    name: file_6.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 200 
+      first test 
+    uploadedAt: 1618904686747
+    hash: 9ae0ea9e3c9c6e1b9b6252c8395efdc1

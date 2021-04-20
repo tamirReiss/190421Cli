@@ -1,0 +1,13 @@
+outs:
+- md5: 6eb5cefde6fcb8463cea70880a44eb98
+  size: 3
+  path: folder4_file_50.txt
+meta:
+  hkube:
+    id: cli-alrl
+    name: folder4_file_50.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686881
+    hash: 6eb5cefde6fcb8463cea70880a44eb98

@@ -1,0 +1,13 @@
+outs:
+- md5: 4b1709eb0990e993c3125c159133d0fe
+  size: 3
+  path: folder4_file_89.txt
+meta:
+  hkube:
+    id: cli-dv9b
+    name: folder4_file_89.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686894
+    hash: 4b1709eb0990e993c3125c159133d0fe

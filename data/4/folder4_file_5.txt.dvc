@@ -1,0 +1,14 @@
+outs:
+- md5: 1dcca23355272056f04fe8bf20edfce0
+  size: 2
+  path: folder4_file_5.txt
+meta:
+  hkube:
+    id: cli-6ilo
+    name: folder4_file_5.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618904686880
+    hash: 1dcca23355272056f04fe8bf20edfce0

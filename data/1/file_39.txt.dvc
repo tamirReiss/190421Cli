@@ -1,0 +1,16 @@
+outs:
+- md5: 59885ebc737617addaaf0cb8090203fc
+  size: 3
+  path: file_39.txt
+meta:
+  hkube:
+    id: cli-57ef
+    name: file_39.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+      from 30 to 50 
+      from 20 to 40 
+    uploadedAt: 1618904686730
+    hash: 59885ebc737617addaaf0cb8090203fc

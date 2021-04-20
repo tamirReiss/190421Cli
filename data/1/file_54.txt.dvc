@@ -1,0 +1,14 @@
+outs:
+- md5: 2d999528ef1dd9ae433698abf3fe7f43
+  size: 3
+  path: file_54.txt
+meta:
+  hkube:
+    id: cli-3hsc
+    name: file_54.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618904686741
+    hash: 2d999528ef1dd9ae433698abf3fe7f43

@@ -1,0 +1,13 @@
+outs:
+- md5: 105be3ebd0677ec739afd851a6d87fd5
+  size: 3
+  path: folder2_file_69.txt
+meta:
+  hkube:
+    id: cli-be9r
+    name: folder2_file_69.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686811
+    hash: 105be3ebd0677ec739afd851a6d87fd5

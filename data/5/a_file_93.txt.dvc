@@ -1,0 +1,13 @@
+outs:
+- md5: 3368d7171580c61644211e59574674ba
+  size: 3
+  path: a_file_93.txt
+meta:
+  hkube:
+    id: cli-w2e2
+    name: a_file_93.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686925
+    hash: 3368d7171580c61644211e59574674ba

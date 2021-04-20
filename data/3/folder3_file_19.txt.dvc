@@ -1,0 +1,14 @@
+outs:
+- md5: 3bb50ff8eeb7ad116724b56a820139fa
+  size: 3
+  path: folder3_file_19.txt
+meta:
+  hkube:
+    id: cli-pwp8
+    name: folder3_file_19.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618904686831
+    hash: 3bb50ff8eeb7ad116724b56a820139fa

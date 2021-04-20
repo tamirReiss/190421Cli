@@ -1,0 +1,14 @@
+outs:
+- md5: 66a7c1d5cb75ef2542524d888fd32f4a
+  size: 3
+  path: a_file_27.txt
+meta:
+  hkube:
+    id: cli-j4n6
+    name: a_file_27.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1618904686904
+    hash: 66a7c1d5cb75ef2542524d888fd32f4a

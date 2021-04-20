@@ -1,0 +1,15 @@
+outs:
+- md5: 8c9eb686bf3eb5bd83d9373eadf6504b
+  size: 3
+  path: file_15.txt
+meta:
+  hkube:
+    id: cli-bt2b
+    name: file_15.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 200 
+      first test 
+    uploadedAt: 1618904686711
+    hash: 8c9eb686bf3eb5bd83d9373eadf6504b

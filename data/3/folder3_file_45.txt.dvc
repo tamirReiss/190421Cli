@@ -1,0 +1,13 @@
+outs:
+- md5: 93e50d72ab294091a81d828459019eba
+  size: 3
+  path: folder3_file_45.txt
+meta:
+  hkube:
+    id: cli-hfpp
+    name: folder3_file_45.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686845
+    hash: 93e50d72ab294091a81d828459019eba

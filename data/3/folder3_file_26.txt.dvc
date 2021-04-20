@@ -1,0 +1,14 @@
+outs:
+- md5: b0771132ab2531a40c9941375ed8e290
+  size: 3
+  path: folder3_file_26.txt
+meta:
+  hkube:
+    id: cli-kvd8
+    name: folder3_file_26.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1618904686834
+    hash: b0771132ab2531a40c9941375ed8e290

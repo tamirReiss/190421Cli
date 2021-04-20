@@ -1,0 +1,13 @@
+outs:
+- md5: 091b847d9660c0555bc6f29994a03710
+  size: 3
+  path: file_84.txt
+meta:
+  hkube:
+    id: cli-9vvy
+    name: file_84.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686764
+    hash: 091b847d9660c0555bc6f29994a03710

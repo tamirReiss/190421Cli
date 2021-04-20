@@ -1,0 +1,13 @@
+outs:
+- md5: 50a2fabfdd276f573ff97ace8b11c5f4
+  size: 3
+  path: folder4_file_42.txt
+meta:
+  hkube:
+    id: cli-p4et
+    name: folder4_file_42.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686878
+    hash: 50a2fabfdd276f573ff97ace8b11c5f4

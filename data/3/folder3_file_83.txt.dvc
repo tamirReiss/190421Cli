@@ -1,0 +1,13 @@
+outs:
+- md5: 60f3db995d0676b576372c0ee45b7ac0
+  size: 3
+  path: folder3_file_83.txt
+meta:
+  hkube:
+    id: cli-4c80
+    name: folder3_file_83.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686859
+    hash: 60f3db995d0676b576372c0ee45b7ac0

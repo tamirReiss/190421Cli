@@ -1,0 +1,13 @@
+outs:
+- md5: f0287f33eba7192e2a9c6a14f829aa1a
+  size: 3
+  path: a_file_43.txt
+meta:
+  hkube:
+    id: cli-301m
+    name: a_file_43.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686909
+    hash: f0287f33eba7192e2a9c6a14f829aa1a

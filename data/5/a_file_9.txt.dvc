@@ -1,0 +1,14 @@
+outs:
+- md5: 7c5aba41f53293b712fd86d08ed5b36e
+  size: 2
+  path: a_file_9.txt
+meta:
+  hkube:
+    id: cli-8jyr
+    name: a_file_9.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618904686924
+    hash: 7c5aba41f53293b712fd86d08ed5b36e

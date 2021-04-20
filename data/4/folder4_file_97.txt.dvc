@@ -1,0 +1,13 @@
+outs:
+- md5: 90fafcc60c7ee9f7a16e46c69606f9fa
+  size: 3
+  path: folder4_file_97.txt
+meta:
+  hkube:
+    id: cli-2ze3
+    name: folder4_file_97.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686896
+    hash: 90fafcc60c7ee9f7a16e46c69606f9fa

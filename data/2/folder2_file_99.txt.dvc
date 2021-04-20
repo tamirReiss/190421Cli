@@ -1,0 +1,13 @@
+outs:
+- md5: b68495714b0e1cad8ebaa1599766a942
+  size: 3
+  path: folder2_file_99.txt
+meta:
+  hkube:
+    id: cli-4cg9
+    name: folder2_file_99.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686825
+    hash: b68495714b0e1cad8ebaa1599766a942

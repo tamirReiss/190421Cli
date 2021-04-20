@@ -1,0 +1,13 @@
+outs:
+- md5: ecf27a776cdfc771defab1c5d19de9ab
+  size: 3
+  path: folder3_file_60.txt
+meta:
+  hkube:
+    id: cli-v498
+    name: folder3_file_60.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904686852
+    hash: ecf27a776cdfc771defab1c5d19de9ab
