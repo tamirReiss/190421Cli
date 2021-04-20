@@ -4,10 +4,10 @@ outs:
   path: folder3_file_45.txt
 meta:
   hkube:
-    id: cli-hfpp
+    id: cli-65mx
     name: folder3_file_45.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686845
+    uploadedAt: 1618912327802
     hash: 93e50d72ab294091a81d828459019eba

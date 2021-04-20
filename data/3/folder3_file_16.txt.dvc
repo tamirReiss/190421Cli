@@ -4,11 +4,11 @@ outs:
   path: folder3_file_16.txt
 meta:
   hkube:
-    id: cli-rj0c
+    id: cli-mpz0
     name: folder3_file_16.txt
     size: 3
     type: text/plain
     meta: |
       first 20
-    uploadedAt: 1618904686829
+    uploadedAt: 1618912327773
     hash: 5b6b41ed9b343fed9cd05a66d36650f0

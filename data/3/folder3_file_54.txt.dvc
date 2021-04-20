@@ -4,10 +4,10 @@ outs:
   path: folder3_file_54.txt
 meta:
   hkube:
-    id: cli-xo3q
+    id: cli-1w12
     name: folder3_file_54.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686849
+    uploadedAt: 1618912327809
     hash: 2d999528ef1dd9ae433698abf3fe7f43

@@ -4,10 +4,10 @@ outs:
   path: folder3_file_93.txt
 meta:
   hkube:
-    id: cli-ytls
+    id: cli-zss8
     name: folder3_file_93.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686862
+    uploadedAt: 1618912327833
     hash: 3368d7171580c61644211e59574674ba

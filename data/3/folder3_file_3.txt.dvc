@@ -4,11 +4,11 @@ outs:
   path: folder3_file_3.txt
 meta:
   hkube:
-    id: cli-p6xh
+    id: cli-mug6
     name: folder3_file_3.txt
     size: 2
     type: text/plain
     meta: |
       first 20
-    uploadedAt: 1618904686838
+    uploadedAt: 1618912327786
     hash: 6d7fce9fee471194aa8b5b6e47267f03

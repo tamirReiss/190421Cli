@@ -4,10 +4,10 @@ outs:
   path: folder3_file_100.txt
 meta:
   hkube:
-    id: cli-qfta
+    id: cli-ydr0
     name: folder3_file_100.txt
     size: 4
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686827
+    uploadedAt: 1618912327769
     hash: 919d117956d3135c4c683ff021352f5c

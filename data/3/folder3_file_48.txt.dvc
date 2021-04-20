@@ -4,10 +4,10 @@ outs:
   path: folder3_file_48.txt
 meta:
   hkube:
-    id: cli-yfl7
+    id: cli-esyd
     name: folder3_file_48.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686847
+    uploadedAt: 1618912327804
     hash: 08c61f3fd48f12fa7c88a7f5fd01df3d

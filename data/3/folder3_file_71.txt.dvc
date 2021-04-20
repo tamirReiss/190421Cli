@@ -4,10 +4,10 @@ outs:
   path: folder3_file_71.txt
 meta:
   hkube:
-    id: cli-posk
+    id: cli-97m3
     name: folder3_file_71.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686855
+    uploadedAt: 1618912327819
     hash: 721327bfc0e276a871561a42ac89a490

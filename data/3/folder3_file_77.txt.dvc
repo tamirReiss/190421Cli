@@ -4,10 +4,10 @@ outs:
   path: folder3_file_77.txt
 meta:
   hkube:
-    id: cli-bna7
+    id: cli-cyxj
     name: folder3_file_77.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686857
+    uploadedAt: 1618912327823
     hash: 2b44a59db15a3ee2f1605ac82b028b20

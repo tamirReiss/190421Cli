@@ -4,10 +4,10 @@ outs:
   path: folder3_file_46.txt
 meta:
   hkube:
-    id: cli-8bmk
+    id: cli-lzjx
     name: folder3_file_46.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686846
+    uploadedAt: 1618912327803
     hash: d3a57c7e953913944c76009357469568

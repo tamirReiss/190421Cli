@@ -4,10 +4,10 @@ outs:
   path: folder3_file_76.txt
 meta:
   hkube:
-    id: cli-nim6
+    id: cli-okyn
     name: folder3_file_76.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686857
+    uploadedAt: 1618912327822
     hash: 1709106f7c5dbb0539104f4ea3c17a7d

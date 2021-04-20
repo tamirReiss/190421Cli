@@ -4,11 +4,11 @@ outs:
   path: folder3_file_25.txt
 meta:
   hkube:
-    id: cli-2qcp
+    id: cli-8bxb
     name: folder3_file_25.txt
     size: 3
     type: text/plain
     meta: |
       from 20 to 40
-    uploadedAt: 1618904686834
+    uploadedAt: 1618912327780
     hash: 2a52a5e65fc3c43f409550dfad1f904f

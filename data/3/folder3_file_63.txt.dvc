@@ -4,10 +4,10 @@ outs:
   path: folder3_file_63.txt
 meta:
   hkube:
-    id: cli-mrxo
+    id: cli-a5nw
     name: folder3_file_63.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686853
+    uploadedAt: 1618912327815
     hash: d26e597a24e9190afa579226d552f5d3

@@ -4,10 +4,10 @@ outs:
   path: folder3_file_57.txt
 meta:
   hkube:
-    id: cli-p1py
+    id: cli-4pzc
     name: folder3_file_57.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686850
+    uploadedAt: 1618912327811
     hash: ec8b36fb34891a21752283fcde7788e5

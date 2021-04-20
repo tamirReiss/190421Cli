@@ -4,10 +4,10 @@ outs:
   path: folder3_file_62.txt
 meta:
   hkube:
-    id: cli-rmt3
+    id: cli-qolr
     name: folder3_file_62.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686853
+    uploadedAt: 1618912327814
     hash: 9a01df2f09a7bf076c00132b12811665

@@ -4,10 +4,10 @@ outs:
   path: folder3_file_55.txt
 meta:
   hkube:
-    id: cli-qvgo
+    id: cli-qasl
     name: folder3_file_55.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686850
+    uploadedAt: 1618912327810
     hash: 8d7e35631f830f2c5b9685450a2b8568

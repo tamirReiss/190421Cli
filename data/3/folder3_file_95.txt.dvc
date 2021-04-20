@@ -4,10 +4,10 @@ outs:
   path: folder3_file_95.txt
 meta:
   hkube:
-    id: cli-o1f0
+    id: cli-taxg
     name: folder3_file_95.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686863
+    uploadedAt: 1618912327834
     hash: 9672a5e9c09fb71edf287ea3057f9148

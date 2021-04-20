@@ -4,10 +4,10 @@ outs:
   path: folder3_file_61.txt
 meta:
   hkube:
-    id: cli-etoc
+    id: cli-ckg9
     name: folder3_file_61.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686852
+    uploadedAt: 1618912327814
     hash: 1153ebfe1f32d9046be1105829c9a0b2

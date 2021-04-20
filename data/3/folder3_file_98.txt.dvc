@@ -4,10 +4,10 @@ outs:
   path: folder3_file_98.txt
 meta:
   hkube:
-    id: cli-8zkt
+    id: cli-yviz
     name: folder3_file_98.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686864
+    uploadedAt: 1618912327836
     hash: 18be9375e5a753f766616a51eb6131f0

@@ -4,10 +4,10 @@ outs:
   path: folder3_file_80.txt
 meta:
   hkube:
-    id: cli-i58u
+    id: cli-pesr
     name: folder3_file_80.txt
     size: 3
     type: text/plain
     meta: ''
-    uploadedAt: 1618904686858
+    uploadedAt: 1618912327826
     hash: cea4eca650d71bd9d552b4cf38e05702

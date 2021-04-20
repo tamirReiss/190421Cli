@@ -4,11 +4,11 @@ outs:
   path: folder3_file_15.txt
 meta:
   hkube:
-    id: cli-zfzh
+    id: cli-jipd
     name: folder3_file_15.txt
     size: 3
     type: text/plain
     meta: |
       first 20
-    uploadedAt: 1618904686829
+    uploadedAt: 1618912327772
     hash: 8c9eb686bf3eb5bd83d9373eadf6504b
