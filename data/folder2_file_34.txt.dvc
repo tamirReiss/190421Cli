@@ -1,0 +1,14 @@
+outs:
+- md5: fd1bc138d22d4f78150c6e808345c2cc
+  size: 3
+  path: folder2_file_34.txt
+meta:
+  hkube:
+    id: ser-yqzt
+    name: folder2_file_34.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1618904241922
+    hash: fd1bc138d22d4f78150c6e808345c2cc

@@ -1,0 +1,13 @@
+outs:
+- md5: ec8b36fb34891a21752283fcde7788e5
+  size: 3
+  path: folder2_file_57.txt
+meta:
+  hkube:
+    id: ser-15vk
+    name: folder2_file_57.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618904241923
+    hash: ec8b36fb34891a21752283fcde7788e5

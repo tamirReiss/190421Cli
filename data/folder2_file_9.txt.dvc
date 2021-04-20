@@ -1,0 +1,14 @@
+outs:
+- md5: 7c5aba41f53293b712fd86d08ed5b36e
+  size: 2
+  path: folder2_file_9.txt
+meta:
+  hkube:
+    id: ser-r7d7
+    name: folder2_file_9.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618904241920
+    hash: 7c5aba41f53293b712fd86d08ed5b36e
